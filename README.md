@@ -9,13 +9,13 @@
 
 <h1 align="center">GitHub Search Engine</h1>
 
-# Technologies:
+## Technologies:
 1. TypeScript
 2. Redux Toolkit
 3. React
 4. Tailwind
 
-# Documentation
+## Documentation
 
 Installation process:
 
@@ -35,7 +35,7 @@ npm start
 
 > INFO: If you want, you can change tailwind configuration files
 
-# Contact Developer
+## Contact Developer
 
 
     Telegram:           @secdet17
