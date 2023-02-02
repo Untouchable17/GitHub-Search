@@ -5,7 +5,7 @@
 </h1>
 
 
-<h4 align="center"> Search service for custom repositories on GitHub with the ability to add favorites to favorites. </h4>
+<h4 align="center"> Search service for custom repositories on GitHub with the ability to add liked to favorites. </h4>
 
 <h1 align="center">GitHub Search Engine</h1>
 
@@ -25,7 +25,7 @@ git clone https://github.com/Untouchable17/GitHub-Search
 ```
 2. Install node modules
 ```
-npm install 
+npm install package.json
 ```
 3. Start server
 ```
