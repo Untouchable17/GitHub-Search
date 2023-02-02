@@ -5,11 +5,11 @@
 </h1>
 
 
-<h4 align="center"> The one stop shop for all matters properties. Buy, Rent or sell with us! </h4>
+<h4 align="center"> Search service for custom repositories on GitHub with the ability to add favorites to favorites. </h4>
 
 <h1 align="center">GitHub Search Engine</h1>
 
-Search service for custom repositories on GitHub with the ability to add favorites to favorites.
+## Technologies used:
 1. TypeScript
 2. Redux Toolkit
 3. React
