@@ -9,7 +9,7 @@
 
 <h1 align="center">GitHub Search Engine</h1>
 
-## Technologies used:
+# Technologies:
 1. TypeScript
 2. Redux Toolkit
 3. React
